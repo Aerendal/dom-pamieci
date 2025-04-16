@@ -1,5 +1,13 @@
 
 body {
+  background-image: url('tlo.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+body {
   margin: 0;
   font-family: 'Georgia', serif;
   background-color: #111;
